@@ -44,3 +44,14 @@ for (var i = 0; i < cargo.length; i++) {
     console.log("".concat(c.material, ": ").concat(loaded));
 }
 console.log("Final cargo and astronaut mass: ".concat(falcon9.currentMassKg(), " kg."));
+/*
+Mae: On board
+Sally: On board
+Charles: On board
+Satellite: Loaded
+Space Probe: Loaded
+Water: Loaded
+Food: Loaded
+Tesla Roadster: Not loaded
+Final cargo and astronaut mass: 5656.78 kg.
+*/ 
